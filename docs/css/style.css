@@ -71,3 +71,20 @@ header {
     padding: 20px;
     font-size: 30px;
 }
+
+.section-title {
+    text-align: center;
+}
+
+.gallery-image {
+    width: 300px;
+    margin: 10px;
+
+}
+
+.gallery {
+    border: 2px solid purple;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
